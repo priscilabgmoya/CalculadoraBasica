@@ -64,7 +64,7 @@
             // 
             // textBox1
             // 
-            textBox1.BackColor = Color.DodgerBlue;
+            textBox1.BackColor = Color.Cyan;
             textBox1.Font = new Font("Segoe UI", 25F);
             textBox1.Location = new Point(12, 75);
             textBox1.Name = "textBox1";
